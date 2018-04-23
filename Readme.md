@@ -6,7 +6,7 @@
 * Tarefa 2: Mostre o gênero (coluna) das 20 primeiras amostras
 * Task 3: Create a function to get the columns as a list
 * Tarefa 3: Cria uma função para pegar colunas como lista
-* Tarefa 4: Count how many people in each gender exists
+* Task 4: Count how many people in each gender exists
 * Tarefa 4: Conte quantas pessoas de cada gênero
 * Task 5: Create a functino to count the genders
 * Tarefa 5: Crie uma função para contar os gêneros
